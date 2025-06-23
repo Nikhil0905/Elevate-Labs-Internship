@@ -10,11 +10,12 @@ This repository contains the completed work for assigned tasks, structured and d
 ## 📂 Repository Structure
 
 ├── Elevate-Labs-Internship/
-│ ├── Tasks/
-│ │ ├── files/ # Nmap scans, pcap files, logs, scripts
-│ │ ├── screenshots/ # Evidence of execution (Wireshark, Terminal)
-│ │ └── report.md # Task documentation and analysis
-├── README.md # Repository overview (this file)
+│   ├── Tasks/
+│   │   ├── files/             # Nmap scans, pcap files, logs, scripts
+│   │   ├── screenshots/       # Evidence of execution (Tools, Terminal)
+│   │   └── report.md          # Task documentation and analysis
+├── README.md                  # Repository overview (this file)
+
 
 ### 👤 Author
 
