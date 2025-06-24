@@ -1,5 +1,5 @@
 
-## 📌 About the Task1
+## 📌 Task 1: Network Scanning and Traffic Capture
 
 This task required us to perform **network scanning and traffic capture** in a simulated environment to identify open ports, analyze services, and capture relevant network traffic using tools of our choice.
 
