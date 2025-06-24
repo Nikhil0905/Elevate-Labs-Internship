@@ -1,5 +1,6 @@
 
 ## 📌 Task 1: Network Scanning and Traffic Capture
+Date: 23rd June, 2025
 
 This task required us to perform **network scanning and traffic capture** in a simulated environment to identify open ports, analyze services, and capture relevant network traffic using tools of our choice.
 
