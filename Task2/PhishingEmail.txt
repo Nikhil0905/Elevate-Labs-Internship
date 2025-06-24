@@ -1,0 +1,19 @@
+From: Amazon Security security-update@amaz0n-support.com
+To: aman2025@gmail.com
+Subject: Important: Password Change Required Immediately
+
+Dear Amazon Customer,
+
+As part of our ongoing efforts to ensure your account's safety, we have detected unusual login attempts from a new device on your Amazon account.
+
+To prevent any unauthorized access, we require you to verify your identity and update your account password immediately.
+
+Please follow the link below to confirm your identity and set a new password:
+
+🔐 Secure Password Update Portal:
+https://amazon-security.com/verify/account
+
+Failure to act within 24 hours will result in a temporary suspension of your account for security reasons.
+
+Sincerely,
+Amazon Account Protection Team
