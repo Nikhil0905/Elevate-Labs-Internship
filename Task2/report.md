@@ -2,7 +2,7 @@
 Date: 24th June, 2025
 
 **Task Objective:**  
-Analyze a suspicious email and identify indicators of phishing using header analysis and content inspection.
+Analyze a suspicious email and identify phishing indicators using header analysis and content inspection.
 
 ---
 
