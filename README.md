@@ -23,11 +23,11 @@ This repository contains the completed work for assigned tasks, structured and d
 
 **Nikhil Shakya**  
 Cybersecurity Intern – Elevate Labs  
-📧 [nikhilshakya0905@gmail.com] • 🌐 [https://www.linkedin.com/in/nikhilshakya0905/]
+📧 [nikhilshakya0905@gmail.com] • 🌐 [https://www.linkedin.com/in/nikhilshakya0905/] • 🌐 [https://github.com/Nikhil0905/]
 
 ---
 
-### 📅 Internship Dates
+### 📅 Internship Duration/Date
 
 **Start**: June 21, 2025  
 **End**: July 20, 2025
